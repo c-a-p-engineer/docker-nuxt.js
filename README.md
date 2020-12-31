@@ -35,10 +35,14 @@ yarn create nuxt-app <project-name>
         yarn start
 ```
 
-# Blog
-
+# hotreload
+nuxt.config.jsに下記の設定を追加
 ```
-yarn add @nuxt/content
+watchers: {
+    webpack: {
+        poll: true
+    }
+}
 ```
 
 # Usage
