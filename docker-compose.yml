@@ -1,0 +1,14 @@
+version: '3'
+
+services:
+  nuxt:
+    build: .
+    container_name: nuxt
+    stdin_open: true
+    tty: true
+    volumes:
+      - .:/app
+    environment:
+      - NUXT_HOST=0.0.0.0
+    ports:
+      - "3000:3000"
