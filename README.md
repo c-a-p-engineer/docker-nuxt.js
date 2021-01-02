@@ -19,8 +19,8 @@ nuxt.jsのプロジェクト作成
 yarn create nuxt-app <project-name>
 ```
 
-[Create Nuxt App](https://github.com/nuxt/create-nuxt-app)
-[Nuxt.js インストール](https://ja.nuxtjs.org/docs/2.x/get-started/installation/)
+* [Create Nuxt App](https://github.com/nuxt/create-nuxt-app)
+* [Nuxt.js インストール](https://ja.nuxtjs.org/docs/2.x/get-started/installation/)
 
 ```
   To get started:
@@ -53,6 +53,7 @@ http://localhost:8000
 # Note
 * [NUXT.js](https://ja.nuxtjs.org/) 
 * [docker-composeで始めるnuxt.js](https://qiita.com/fussy113/items/ed7f56ff647a7f853bc9) 
+* [Nuxt.jsでブログを作る場合はnuxt/contentが良さそうな件](https://ulab.hatenablog.com/entry/20200807/1596809612)
 
 # Author
 * [こぴぺたん](https://twitter.com/c_a_p_engineer)
